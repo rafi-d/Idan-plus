@@ -3,30 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="Ger1" group-title="עידן+" tvg-logo="http://thumbs2.imagebam.com/7c/71/27/8d2446784877333.jpg",8.11.20: נוספו ערוצי חדשות וספורט חוץ לנסיון
 https://tinyurl.com/idan-guide
  
-#EXTINF:-1 tvg-id="11" tvg-name="11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",chכאן - תוסף 11 
-plugin://plugin.video.idanplus/?mode=5&url=ch_11
- 
 #EXTINF:-1 tvg-id="11" tvg-name="11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 1080p כאן
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="11" tvg-name="11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 דיילימושן כאן (Kodi 18+)
-plugin://plugin.video.idanplus/?mode=5&url=ch_11
- 
 #EXTINF:-1 tvg-id="11" tvg-name="11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11   כאן גיבוי 
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
- 
-#EXTINF:-1 tvg-id="11" tvg-name="11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11  4K כאן גיבוי 
-plugin://plugin.video.idanplus/?mode=5&url=ch_kan4K
- 
- 
-#EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת (Kodi 18+)
-plugin://plugin.video.idanplus/?mode=5&url=ch_12
- 
-#EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
-http://localhost:60666/?plugin://plugin.video.idanplus/?mode=5&url=ch_12
- 
-#EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת - לקויי שמיעה 
-http://localhost:60666/?plugin://plugin.video.idanplus/?mode=5&url=ch_12c
  
 #EXTINF:-1 tvg-id="13" tvg-name="13 רשת" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
