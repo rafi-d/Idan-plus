@@ -3,5 +3,7 @@
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+","ch 11 KAN Master"
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+","ch 11 KAN 2.5"
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
